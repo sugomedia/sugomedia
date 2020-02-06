@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<szamla>
+	<fej>
+		<szamlaszam>2020/359323</szamlaszam>
+		<keltdatum>2020-01-29</keltdatum>
+		<teljdatum>2020-01-29</teljdatum>
+		<fizhatdatum>2020-02-06</fizhatdatum>
+		<netto_vegosszeg>20659.84</netto_vegosszeg>
+		<brutto_vegosszeg>26238.00</brutto_vegosszeg>
+	</fej>
+	<tetelek>
+		<tetel>
+			<cikkszam>88322</cikkszam>
+			<nev>Genius NX-7015 Wireless Iron Grey</nev>
+			<garido>24 hó</garido>
+			<vonalkod>4710268250944</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>1680.00</ar>
+			<osszar>1680.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>X9E95234802291</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>92456</cikkszam>
+			<nev>TP-Link TL-WA855RE 300M Wireless Range Extender</nev>
+			<garido>36 hó</garido>
+			<vonalkod>6935364093839</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>4420.00</ar>
+			<osszar>4420.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>2195743000838</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>93611</cikkszam>
+			<nev>TeamGroup 120GB 2,5&quot; SATA3 L3 EVO Series</nev>
+			<garido>36 hó</garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>6089.84</ar>
+			<osszar>6089.84</osszar>
+			<szeriaszamok>
+				<szeriaszam>TM1F-19112700303078</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>105680</cikkszam>
+			<nev>ICONINK CE505X Black utángyártott toner</nev>
+			<garido>24 hó</garido>
+			<vonalkod>3612050502334</vonalkod>
+			<mennyiseg>2.00</mennyiseg>
+			<ar>2050.00</ar>
+			<osszar>4100.00</osszar>
+			<szeriaszamok/>
+		</tetel>
+		<tetel>
+			<cikkszam>102624</cikkszam>
+			<nev>ICONINK TN-1030 Black utángyártott toner</nev>
+			<garido>24 hó</garido>
+			<vonalkod>3610103003333</vonalkod>
+			<mennyiseg>2.00</mennyiseg>
+			<ar>1690.00</ar>
+			<osszar>3380.00</osszar>
+			<szeriaszamok/>
+		</tetel>
+		<tetel>
+			<cikkszam>913</cikkszam>
+			<nev>Kiszállítási díj Vidék</nev>
+			<garido></garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>990.00</ar>
+			<osszar>990.00</osszar>
+			<szeriaszamok/>
+		</tetel>
+	</tetelek>
+</szamla>

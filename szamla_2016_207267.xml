@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<szamla>
+	<fej>
+		<szamlaszam>2016/207267</szamlaszam>
+		<keltdatum>2016-10-13</keltdatum>
+		<teljdatum>2016-10-13</teljdatum>
+		<fizhatdatum>2016-10-21</fizhatdatum>
+		<netto_vegosszeg>471270.00</netto_vegosszeg>
+		<brutto_vegosszeg>598514.00</brutto_vegosszeg>
+	</fej>
+	<tetelek>
+		<tetel>
+			<cikkszam>87566</cikkszam>
+			<nev>Canon MG5750 PIXMA wireless tintasugaras nyomtató/másoló/síkágyas scanner Black</nev>
+			<garido>12 hó</garido>
+			<vonalkod>4549292037128</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>16750.00</ar>
+			<osszar>16750.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>910557C00692AA21KKTJ21458</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>75388</cikkszam>
+			<nev>HP LaserJet Pro M125a (CZ172A) lézernyomtató/másoló/síkágyas scanner</nev>
+			<garido>12 hó</garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>29900.00</ar>
+			<osszar>29900.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>CNB6J2NCQK</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>93205</cikkszam>
+			<nev>Acer 27&quot; Predator XB271HU IPS LED</nev>
+			<garido>36 hó</garido>
+			<vonalkod>4713392260216</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>195800.00</ar>
+			<osszar>195800.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>MMT4TEE0026300A6508502</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>85884</cikkszam>
+			<nev>Intel Core i5-6600K 3500MHz 6MB LGA1151 Box (Ventilátor nélkül)</nev>
+			<garido>36 hó</garido>
+			<vonalkod>5032037076159</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>55400.00</ar>
+			<osszar>55400.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>M5141EX100065</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>82818</cikkszam>
+			<nev>Intel Pentium G3260 3300MHz 3MB LGA1150 Box</nev>
+			<garido>36 hó</garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>12300.00</ar>
+			<osszar>12300.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>U2625063A2394</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>64519</cikkszam>
+			<nev>Kolink 2,5&quot; HDSUB2U3 USB3.0 SATA Black</nev>
+			<garido>12 hó</garido>
+			<vonalkod>4716123304197</vonalkod>
+			<mennyiseg>2.00</mennyiseg>
+			<ar>2950.00</ar>
+			<osszar>5900.00</osszar>
+			<szeriaszamok/>
+		</tetel>
+		<tetel>
+			<cikkszam>64869</cikkszam>
+			<nev>Ewent EW3900 500W</nev>
+			<garido>24 hó</garido>
+			<vonalkod>8032958184640</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>4040.00</ar>
+			<osszar>4040.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>0016052518</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>98221</cikkszam>
+			<nev>Msi GTX 1060 GAMING 3G</nev>
+			<garido>36 hó</garido>
+			<vonalkod>4719072479183</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>61260.00</ar>
+			<osszar>61260.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>602-V328-15SB1609000248</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>88147</cikkszam>
+			<nev>MSI H170 GAMING M3</nev>
+			<garido>36 hó</garido>
+			<vonalkod>4719072416348</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>26840.00</ar>
+			<osszar>26840.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>601-7978-050B1601001533</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>62424</cikkszam>
+			<nev>Logitech M560 Wireless Mouse Black</nev>
+			<garido>36 hó</garido>
+			<vonalkod>5099206047327</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>7610.00</ar>
+			<osszar>7610.00</osszar>
+			<szeriaszamok/>
+		</tetel>
+		<tetel>
+			<cikkszam>98546</cikkszam>
+			<nev>Be quiet! Pure Rock Slim</nev>
+			<garido>36 hó</garido>
+			<vonalkod>4260052185254</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>5400.00</ar>
+			<osszar>5400.00</osszar>
+			<szeriaszamok/>
+		</tetel>
+		<tetel>
+			<cikkszam>44895</cikkszam>
+			<nev>Kingston 8GB DDR3 1600MHz</nev>
+			<garido>Élettartam</garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>9350.00</ar>
+			<osszar>9350.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>SG29621</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>92878</cikkszam>
+			<nev>Kingston 8GB DDR4 2133MHz</nev>
+			<garido>Élettartam</garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>2.00</mennyiseg>
+			<ar>9790.00</ar>
+			<osszar>19580.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>ZS161164</szeriaszam>
+				<szeriaszam>ZS159338</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>92203</cikkszam>
+			<nev>Toshiba 120GB 2,5&quot; SATA3 Q300 Series HDTS812EZSTA</nev>
+			<garido>36 hó</garido>
+			<vonalkod>4051528220056</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>9990.00</ar>
+			<osszar>9990.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>36LB61BFK1LU</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>55193</cikkszam>
+			<nev>Kingston 32GB USB3.0 DT100G3</nev>
+			<garido>60 hó</garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>4160.00</ar>
+			<osszar>4160.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>CM624929</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>92759</cikkszam>
+			<nev>Alaplapok ASROCK B85M-HDS</nev>
+			<garido>12 hó</garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>6990.00</ar>
+			<osszar>6990.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>4AM0XE071453</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+	</tetelek>
+</szamla>

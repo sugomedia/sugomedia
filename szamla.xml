@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<szamla>
+	<fej>
+		<szamlaszam>2020/356311</szamlaszam>
+		<keltdatum>2020-01-09</keltdatum>
+		<teljdatum>2020-01-09</teljdatum>
+		<fizhatdatum>2020-01-17</fizhatdatum>
+		<netto_vegosszeg>105119.68</netto_vegosszeg>
+		<brutto_vegosszeg>133502.00</brutto_vegosszeg>
+	</fej>
+	<tetelek>
+		<tetel>
+			<cikkszam>141935</cikkszam>
+			<nev>Genius SP-HF1250B II 2.0 hangfal Wood</nev>
+			<garido>24 hó</garido>
+			<vonalkod>4710268256342</vonalkod>
+			<mennyiseg>2.00</mennyiseg>
+			<ar>10260.00</ar>
+			<osszar>20520.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>UG1906502393</szeriaszam>
+				<szeriaszam>UG1906502396</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>107655</cikkszam>
+			<nev>LG 24&quot; 24BK550Y-B IPS LED</nev>
+			<garido>36 hó</garido>
+			<vonalkod>8806084080233</vonalkod>
+			<mennyiseg>2.00</mennyiseg>
+			<ar>39499.84</ar>
+			<osszar>78999.68</osszar>
+			<szeriaszamok>
+				<szeriaszam>908NTXR0K578</szeriaszam>
+				<szeriaszam>908NTAB0K576</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>124097</cikkszam>
+			<nev>Delight DVI-D (Dual Link) - HDMI kábel 2m Black aranyozott</nev>
+			<garido>12 hó</garido>
+			<vonalkod>5999552698559</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>890.00</ar>
+			<osszar>890.00</osszar>
+			<szeriaszamok/>
+		</tetel>
+		<tetel>
+			<cikkszam>546</cikkszam>
+			<nev>Kolink USB 2.0 hosszabbító kábel 1,8m</nev>
+			<garido></garido>
+			<vonalkod>5055610800903</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>270.00</ar>
+			<osszar>270.00</osszar>
+			<szeriaszamok/>
+		</tetel>
+		<tetel>
+			<cikkszam>545</cikkszam>
+			<nev>Kolink USB 2.0 kábel 1,8m</nev>
+			<garido></garido>
+			<vonalkod>7611990157358</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>190.00</ar>
+			<osszar>190.00</osszar>
+			<szeriaszamok/>
+		</tetel>
+		<tetel>
+			<cikkszam>133478</cikkszam>
+			<nev>Digitus CAT6 U-UTP Patch Cable 1m Green</nev>
+			<garido>12 hó</garido>
+			<vonalkod>4016032371892</vonalkod>
+			<mennyiseg>2.00</mennyiseg>
+			<ar>180.00</ar>
+			<osszar>360.00</osszar>
+			<szeriaszamok/>
+		</tetel>
+		<tetel>
+			<cikkszam>133479</cikkszam>
+			<nev>Digitus CAT6 U-UTP Patch Cable 1m Red</nev>
+			<garido>12 hó</garido>
+			<vonalkod>4016032371908</vonalkod>
+			<mennyiseg>2.00</mennyiseg>
+			<ar>180.00</ar>
+			<osszar>360.00</osszar>
+			<szeriaszamok/>
+		</tetel>
+		<tetel>
+			<cikkszam>83406</cikkszam>
+			<nev>Akyga 420-Basic 420W 12CM OEM</nev>
+			<garido>24 hó</garido>
+			<vonalkod>5901720130310</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>3530.00</ar>
+			<osszar>3530.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>AE1913B1420770</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+	</tetelek>
+</szamla>

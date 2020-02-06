@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<valasz verzio="1.0">
+  <szamlak>
+    <szamla>
+      <fej>
+        <kiszamlakod>424552</kiszamlakod>
+        <bizonylatszam>KS1900015515</bizonylatszam>
+        <bizdatum>2019.10.09</bizdatum>
+        <teljdatum>2019.10.09</teljdatum>
+        <fizhat>2019.10.17</fizhat>
+        <devnetto>19820,0000000</devnetto>
+        <devbrutto>25171,0000000</devbrutto>
+        <devtartozas>0,0000000</devtartozas>
+        <stornobizszam />
+        <dnem>HUF</dnem>
+        <pid>17017</pid>
+        <partnernev>SUGOMEDIA BT.</partnernev>
+        <bizstatus>1</bizstatus>
+        <fizmodnev>utánvét</fizmodnev>
+      </fej>
+      <tetelek>
+        <tetel>
+          <tetelszam>1</tetelszam>
+          <cikkid>14820</cikkid>
+          <cikkszam>433FC15</cikkszam>
+          <cikknev>Q-PRINT TONER CF283X (83X) (CHIPES) BLACK 2,2k</cikknev>
+          <menny>2,0000000</menny>
+          <me>db</me>
+          <egysegar>1710,0000000</egysegar>
+          <bregysegar>2171,70000000000</bregysegar>
+          <ertek>3420,000000000000</ertek>
+          <brertek>4343,400000</brertek>
+          <rbtkod>33</rbtkod>
+          <rbkod>477596</rbkod>
+          <rtszam>1</rtszam>
+          <rbizonylatszam>BRW201920298</rbizonylatszam>
+          <ridegenmegrszam />
+          <cikkazon>5999544424166</cikkazon>
+          <sorozatszamok />
+        </tetel>
+        <tetel>
+          <tetelszam>2</tetelszam>
+          <cikkid>14115</cikkid>
+          <cikkszam>000000011669</cikkszam>
+          <cikknev>MÁSOLÓGÉP TONER FOR USE KONICA MINOLTA/ DEVELOP TN116/TN118 INEO164</cikknev>
+          <menny>1,0000000</menny>
+          <me>db</me>
+          <egysegar>7200,0000000</egysegar>
+          <bregysegar>9144,00000000000</bregysegar>
+          <ertek>7200,000000000000</ertek>
+          <brertek>9144,000000</brertek>
+          <rbtkod>33</rbtkod>
+          <rbkod>477596</rbkod>
+          <rtszam>2</rtszam>
+          <rbizonylatszam>BRW201920298</rbizonylatszam>
+          <ridegenmegrszam />
+          <cikkazon>2200000015457</cikkazon>
+          <sorozatszamok />
+        </tetel>
+        <tetel>
+          <tetelszam>3</tetelszam>
+          <cikkid>5186</cikkid>
+          <cikkszam>000000004946</cikkszam>
+          <cikknev>Q-PRINT TONER ML-1610/2010/4521/3117/3125 BLACK 3k</cikknev>
+          <menny>1,0000000</menny>
+          <me>db</me>
+          <egysegar>2680,0000000</egysegar>
+          <bregysegar>3403,60000000000</bregysegar>
+          <ertek>2680,000000000000</ertek>
+          <brertek>3403,600000</brertek>
+          <rbtkod>33</rbtkod>
+          <rbkod>477596</rbkod>
+          <rtszam>3</rtszam>
+          <rbizonylatszam>BRW201920298</rbizonylatszam>
+          <ridegenmegrszam />
+          <cikkazon>5999544423527</cikkazon>
+          <sorozatszamok />
+        </tetel>
+        <tetel>
+          <tetelszam>4</tetelszam>
+          <cikkid>7370</cikkid>
+          <cikkszam>000000006520</cikkszam>
+          <cikknev>Q-PRINT TONER MLT-D1092S (SCX4300) (CHIPES) BLACK 2k</cikknev>
+          <menny>1,0000000</menny>
+          <me>db</me>
+          <egysegar>3050,0000000</egysegar>
+          <bregysegar>3873,50000000000</bregysegar>
+          <ertek>3050,000000000000</ertek>
+          <brertek>3873,500000</brertek>
+          <rbtkod>33</rbtkod>
+          <rbkod>477596</rbkod>
+          <rtszam>4</rtszam>
+          <rbizonylatszam>BRW201920298</rbizonylatszam>
+          <ridegenmegrszam />
+          <cikkazon>5999544424579</cikkazon>
+          <sorozatszamok />
+        </tetel>
+        <tetel>
+          <tetelszam>5</tetelszam>
+          <cikkid>14635</cikkid>
+          <cikkszam>253FC15</cikkszam>
+          <cikknev>4WORLD MONITOR TISZTÍTÓHAB TFT/LCD 200ML</cikknev>
+          <menny>1,0000000</menny>
+          <me>db</me>
+          <egysegar>500,0000000</egysegar>
+          <bregysegar>635,00000000000</bregysegar>
+          <ertek>500,000000000000</ertek>
+          <brertek>635,000000</brertek>
+          <rbtkod>33</rbtkod>
+          <rbkod>477596</rbkod>
+          <rtszam>5</rtszam>
+          <rbizonylatszam>BRW201920298</rbizonylatszam>
+          <ridegenmegrszam />
+          <cikkazon>5908214311149</cikkazon>
+          <sorozatszamok />
+        </tetel>
+        <tetel>
+          <tetelszam>6</tetelszam>
+          <cikkid>20092</cikkid>
+          <cikkszam>1332FC19</cikkszam>
+          <cikknev>HIBAJAVÍTÓ ROLLER 5MMX8M VICTORIA</cikknev>
+          <menny>2,0000000</menny>
+          <me>db</me>
+          <egysegar>191,0000000</egysegar>
+          <bregysegar>242,57000000000</bregysegar>
+          <ertek>382,000000000000</ertek>
+          <brertek>485,140000</brertek>
+          <rbtkod>33</rbtkod>
+          <rbkod>477596</rbkod>
+          <rtszam>6</rtszam>
+          <rbizonylatszam>BRW201920298</rbizonylatszam>
+          <ridegenmegrszam />
+          <cikkazon>5998880347313</cikkazon>
+          <sorozatszamok />
+        </tetel>
+        <tetel>
+          <tetelszam>7</tetelszam>
+          <cikkid>19769</cikkid>
+          <cikkszam>1041FC19</cikkszam>
+          <cikknev>ISKOLAI RAGASZTÓ STIFT 22 GR PRITT</cikknev>
+          <menny>2,0000000</menny>
+          <me>db</me>
+          <egysegar>264,0000000</egysegar>
+          <bregysegar>335,28000000000</bregysegar>
+          <ertek>528,000000000000</ertek>
+          <brertek>670,560000</brertek>
+          <rbtkod>33</rbtkod>
+          <rbkod>477596</rbkod>
+          <rtszam>7</rtszam>
+          <rbizonylatszam>BRW201920298</rbizonylatszam>
+          <ridegenmegrszam />
+          <cikkazon />
+          <sorozatszamok />
+        </tetel>
+        <tetel>
+          <tetelszam>8</tetelszam>
+          <cikkid>8543</cikkid>
+          <cikkszam>000000007385</cikkszam>
+          <cikknev>VEVŐ HÁZHOZSZÁLLÍTÁS SPRINTER (0-40 KG)</cikknev>
+          <menny>1,0000000</menny>
+          <me>db</me>
+          <egysegar>1470,0000000</egysegar>
+          <bregysegar>1866,90000000000</bregysegar>
+          <ertek>1470,000000000000</ertek>
+          <brertek>1866,900000</brertek>
+          <rbtkod>33</rbtkod>
+          <rbkod>477596</rbkod>
+          <rtszam>8</rtszam>
+          <rbizonylatszam>BRW201920298</rbizonylatszam>
+          <ridegenmegrszam />
+          <cikkazon />
+          <sorozatszamok />
+        </tetel>
+        <tetel>
+          <tetelszam>9</tetelszam>
+          <cikkid>16580</cikkid>
+          <cikkszam>345FC17</cikkszam>
+          <cikknev>UTÁNVÉT BESZEDÉSI DÍJ 100,000 FT-IG SPRINTER</cikknev>
+          <menny>1,0000000</menny>
+          <me>db</me>
+          <egysegar>590,0000000</egysegar>
+          <bregysegar>749,30000000000</bregysegar>
+          <ertek>590,000000000000</ertek>
+          <brertek>749,300000</brertek>
+          <rbtkod />
+          <rbkod />
+          <rtszam />
+          <rbizonylatszam />
+          <ridegenmegrszam />
+          <cikkazon />
+          <sorozatszamok />
+        </tetel>
+      </tetelek>
+    </szamla>
+  </szamlak>
+</valasz>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<szamla>
+	<fej>
+		<szamlaszam>2020/355597</szamlaszam>
+		<keltdatum>2020-01-06</keltdatum>
+		<teljdatum>2020-01-06</teljdatum>
+		<fizhatdatum>2020-01-14</fizhatdatum>
+		<netto_vegosszeg>97250.40</netto_vegosszeg>
+		<brutto_vegosszeg>123508.00</brutto_vegosszeg>
+	</fej>
+	<tetelek>
+		<tetel>
+			<cikkszam>141688</cikkszam>
+			<nev>Samsung 24&quot; S24F354FHU LED</nev>
+			<garido>12 hó</garido>
+			<vonalkod>8806090139451</vonalkod>
+			<mennyiseg>2.00</mennyiseg>
+			<ar>23800.20</ar>
+			<osszar>47600.40</osszar>
+			<szeriaszamok>
+				<szeriaszam>CWA4H4ZMA02527</szeriaszam>
+				<szeriaszam>CWA4H4ZMA02526</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>137372</cikkszam>
+			<nev>Xiaomi Mi Home Security Camera 360° 1080p</nev>
+			<garido>24 hó</garido>
+			<vonalkod>6934177704789</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>9490.00</ar>
+			<osszar>9490.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>25288/00290780</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>95892</cikkszam>
+			<nev>Akyga AK-PC-01A hálózati tápkábel 1,5m</nev>
+			<garido>12 hó</garido>
+			<vonalkod>5901720130518</vonalkod>
+			<mennyiseg>2.00</mennyiseg>
+			<ar>350.00</ar>
+			<osszar>700.00</osszar>
+			<szeriaszamok/>
+		</tetel>
+		<tetel>
+			<cikkszam>88309</cikkszam>
+			<nev>Kolink Billentyűzet matrica HU Black/White</nev>
+			<garido>12 hó</garido>
+			<vonalkod>5999094000155</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>190.00</ar>
+			<osszar>190.00</osszar>
+			<szeriaszamok/>
+		</tetel>
+		<tetel>
+			<cikkszam>69200</cikkszam>
+			<nev>Tenda N301 Wireless N300 Easy Setup Router</nev>
+			<garido>60 hó</garido>
+			<vonalkod>6932849406894</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>2700.00</ar>
+			<osszar>2700.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>E0682012933001545</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>41290</cikkszam>
+			<nev>TP-Link TL-SG1016D 16Port Gigabit Switch metal</nev>
+			<garido>36 hó</garido>
+			<vonalkod>6935364020613</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>12590.00</ar>
+			<osszar>12590.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>2198173000038</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>53666</cikkszam>
+			<nev>TP-Link TL-WA850RE 300M Wireless Range Extender</nev>
+			<garido>36 hó</garido>
+			<vonalkod>6935364070199</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>3790.00</ar>
+			<osszar>3790.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>2198743008914</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>92456</cikkszam>
+			<nev>TP-Link TL-WA855RE 300M Wireless Range Extender</nev>
+			<garido>36 hó</garido>
+			<vonalkod>6935364093839</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>4410.00</ar>
+			<osszar>4410.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>2198B06006435</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>129461</cikkszam>
+			<nev>PNY 240GB 2,5&quot; SATA3 CS900</nev>
+			<garido>36 hó</garido>
+			<vonalkod>3536403351724</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>7390.00</ar>
+			<osszar>7390.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>PNY43191910250109B96</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>127748</cikkszam>
+			<nev>TeamGroup 64GB microSDXC Class 10 UHS-I/U1 + adapterrel</nev>
+			<garido>Élettartam</garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>2.00</mennyiseg>
+			<ar>3700.00</ar>
+			<osszar>7400.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>CM754551</szeriaszam>
+				<szeriaszam>CM754553</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>913</cikkszam>
+			<nev>Kiszállítási díj Vidék</nev>
+			<garido></garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>990.00</ar>
+			<osszar>990.00</osszar>
+			<szeriaszamok/>
+		</tetel>
+	</tetelek>
+</szamla>

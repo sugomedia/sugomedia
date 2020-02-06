@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<szamla>
+	<fej>
+		<szamlaszam>2016/183077</szamlaszam>
+		<keltdatum>2016-03-21</keltdatum>
+		<teljdatum>2016-03-21</teljdatum>
+		<fizhatdatum>2016-03-29</fizhatdatum>
+		<netto_vegosszeg>585429.13</netto_vegosszeg>
+		<brutto_vegosszeg>743495.00</brutto_vegosszeg>
+	</fej>
+	<tetelek>
+		<tetel>
+			<cikkszam>13028</cikkszam>
+			<nev>HP LaserJet Pro P1102 (CE651A) lézernyomtató</nev>
+			<garido>12 hó</garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>18900.00</ar>
+			<osszar>18900.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>VNF8X38244</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>75430</cikkszam>
+			<nev>Synology NAS DS415+ (4 HDD) HU</nev>
+			<garido>24 hó</garido>
+			<vonalkod>4711174721757</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>147989.14</ar>
+			<osszar>147989.14</osszar>
+			<szeriaszamok>
+				<szeriaszam>15A0MIN815010</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>58423</cikkszam>
+			<nev>Logilink 2,5&quot; SATA USB 3.0 Aluminium Silver</nev>
+			<garido>24 hó</garido>
+			<vonalkod>4052792006940</vonalkod>
+			<mennyiseg>2.00</mennyiseg>
+			<ar>2690.00</ar>
+			<osszar>5380.00</osszar>
+			<szeriaszamok/>
+		</tetel>
+		<tetel>
+			<cikkszam>62173</cikkszam>
+			<nev>Akyga AK-ND-06 Adapter Acer 19V/3.42A 65W</nev>
+			<garido>24 hó</garido>
+			<vonalkod>5901720130259</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>1880.00</ar>
+			<osszar>1880.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>AK0610150130</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>90850</cikkszam>
+			<nev>Lenovo IdeaPad 100 (80MJ00GWHV) Black</nev>
+			<garido>24 hó</garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>3.00</mennyiseg>
+			<ar>69200.00</ar>
+			<osszar>207600.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>MP10RDERMPNXB5B2408C</szeriaszam>
+				<szeriaszam>MP10RDMAMPNXB5B2408C</szeriaszam>
+				<szeriaszam>MP110TGKMPNXB5B2408C</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>1842</cikkszam>
+			<nev>APC Smart UPS 420VA SC420I</nev>
+			<garido>24 hó</garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>39500.00</ar>
+			<osszar>39500.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>S5S1549T20477</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>49119</cikkszam>
+			<nev>Rapoo 3100P Mid Level White</nev>
+			<garido>24 hó</garido>
+			<vonalkod>6943518908281</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>3750.00</ar>
+			<osszar>3750.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>15B013100P000482</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>68566</cikkszam>
+			<nev>Microsoft Windows Server Essentials 2012 R2 64Bit Hungarian OEM DVD 1-2CPU</nev>
+			<garido></garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>105550.00</ar>
+			<osszar>105550.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>02580020076155</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>5751</cikkszam>
+			<nev>Kingmax 2GB DDR3 1600Mhz</nev>
+			<garido>36 hó</garido>
+			<vonalkod>4712176732284</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>2770.00</ar>
+			<osszar>2770.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>ZG2000203019</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>5753</cikkszam>
+			<nev>Samsung 2GB DDR2 800MHz SODIMM</nev>
+			<garido>36 hó</garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>4400.00</ar>
+			<osszar>4400.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>CM559736</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>44927</cikkszam>
+			<nev>Western Digital 2TB IntelliPower SATA-600 64MB Red WD20EFRX</nev>
+			<garido>36 hó</garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>2.00</mennyiseg>
+			<ar>20540.00</ar>
+			<osszar>41080.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>WCC4M2ULTHRF</szeriaszam>
+				<szeriaszam>WCC4M5AAZC49</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>88279</cikkszam>
+			<nev>Kingston 64GB microSDXC CL10 UHS-I adapter nélkül</nev>
+			<garido>Élettartam</garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>6630.00</ar>
+			<osszar>6630.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>CM548951</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+	</tetelek>
+</szamla>

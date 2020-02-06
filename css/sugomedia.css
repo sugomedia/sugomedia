@@ -1,0 +1,184 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	border: 0px;	
+}
+
+body{
+	background-color: #dcdcdc;
+	font-family:  sans-serif;
+	font-size:12px;
+}
+
+h3{
+	background-color: #f4f4f4; 
+	width:100%;
+	padding: 10px;
+}
+.container{
+	background-color: #ffffff;
+	box-shadow: 0px 0px 15px #888888;
+}
+
+.row{
+	
+}
+
+.leftside{
+	//box-shadow: 0 0 15px black;
+	
+	background-color: #f4f4f4;
+	text-align: center;
+	z-index: 5;
+}
+
+.rightside{
+	border-top: 3px solid #2980b9;
+	border-left: 3px solid #2980b9;
+	background-color: #ffffff;
+	padding: 10px;
+	padding-left: 15px;
+}
+
+.rightside img{width: 100%;
+height: 250px;}
+
+.brand{
+	font-family: 'Economica', sans-serif;
+	font-size: 25px;
+	color: #000000;
+	font-weight: 700;
+}
+
+.nav li{
+	text-align: center;
+	display: inline-block;
+
+	
+}
+
+em{
+	color: red;
+}
+
+.nav {
+	border-top: 1px solid #b1b1b1;
+	border-bottom: 1px solid #b1b1b1;
+	width: 100%;
+}
+
+.nav li:first-child{
+	display: inline-block;
+
+}
+
+.nav li a{
+	color: #605d5e;
+	transition: background-color 0.5s ease-out;
+}
+
+.nav li a:hover{
+	background-color: #2980b9;
+	color: #ffffff;
+	transition: background-color 0.5s ease-out;
+
+}
+
+.active{
+	background-color: #ebebeb;
+	box-shadow: inset 0 0 5px  #cdcdcd;
+}
+
+.slogen{
+	color: #2980b9;
+	font-family: 'Tangerine', cursive;
+	font-size: 26px;
+	padding: 10px;
+}
+
+.contacts{
+	padding: 15px;
+	font-size: 13px;
+	text-align: left;
+	line-height: 180%;
+}
+
+.footer{
+	background-color: #2980b9;
+	color: #ffffff;
+	padding: 10px;
+	text-align: center;
+	z-index: 6;
+}
+
+.menu {
+
+	width: 100%;
+}
+
+.menu li{
+	text-align: left;
+	display: block;
+
+	border-bottom: 1px solid #b1b1b1;	
+	
+}
+
+.menu li:first-child{
+	display: block;
+	border-top: 1px solid #b1b1b1;
+}
+
+.menu li a{
+	text-decoration: none;
+	color: #605d5e;
+	display: block;
+	padding: 10px;
+	transition: background-color 0.5s ease-out;
+}
+
+.menu li a:hover{
+	background-color: #2980b9;
+	color: #ffffff;
+	transition: background-color 0.5s ease-out;
+}
+
+span:hover{
+	cursor: pointer;
+}
+
+.table-hover > tbody > tr:hover {
+	background-color: #2980b9;
+	color: white;
+}
+
+.r{
+	text-align: right;
+}
+
+#grafikon{
+	height: 400px;
+}
+
+.inaktiv{
+	color: gray;
+}
+
+.catbadge{
+	position: absolute;
+	right: 30px;
+	text-align: right;
+	background-color: gray;
+	color: white;
+}
+
+textarea{
+	min-height: 300px;
+}
+
+#quicksearch{
+	width: 150px;
+	padding: 5px;
+	border: 1px solid #b1b1b1;
+	border-radius: 4px;
+}

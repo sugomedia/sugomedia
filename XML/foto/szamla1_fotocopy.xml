@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<valasz verzio="1.0">
+  <szamlak>
+    <szamla>
+      <fej>
+        <kiszamlakod>428777</kiszamlakod>
+        <bizonylatszam>KS1900018454</bizonylatszam>
+        <bizdatum>2019.11.28</bizdatum>
+        <teljdatum>2019.11.28</teljdatum>
+        <fizhat>2019.12.06</fizhat>
+        <devnetto>39870,0000000</devnetto>
+        <devbrutto>50635,0000000</devbrutto>
+        <devtartozas>0,0000000</devtartozas>
+        <stornobizszam />
+        <dnem>HUF</dnem>
+        <pid>17017</pid>
+        <partnernev>SUGOMEDIA BT.</partnernev>
+        <bizstatus>1</bizstatus>
+        <fizmodnev>utánvét</fizmodnev>
+      </fej>
+      <tetelek>
+        <tetel>
+          <tetelszam>1</tetelszam>
+          <cikkid>13699</cikkid>
+          <cikkszam>000000011342</cikkszam>
+          <cikknev>Q-PRINT TONER CF350A (130A) (CHIPES) BLACK 1,1k</cikknev>
+          <menny>4,0000000</menny>
+          <me>db</me>
+          <egysegar>1860,0000000</egysegar>
+          <bregysegar>2362,20000000000</bregysegar>
+          <ertek>7440,000000000000</ertek>
+          <brertek>9448,800000</brertek>
+          <rbtkod>33</rbtkod>
+          <rbkod>483927</rbkod>
+          <rtszam>1</rtszam>
+          <rbizonylatszam>BRW201924273</rbizonylatszam>
+          <ridegenmegrszam />
+          <cikkazon>5999544425668</cikkazon>
+          <sorozatszamok />
+        </tetel>
+        <tetel>
+          <tetelszam>2</tetelszam>
+          <cikkid>13700</cikkid>
+          <cikkszam>000000011343</cikkszam>
+          <cikknev>Q-PRINT TONER CF351A (130A) (CHIPES) CYAN 1k</cikknev>
+          <menny>4,0000000</menny>
+          <me>db</me>
+          <egysegar>1800,0000000</egysegar>
+          <bregysegar>2286,00000000000</bregysegar>
+          <ertek>7200,000000000000</ertek>
+          <brertek>9144,000000</brertek>
+          <rbtkod>33</rbtkod>
+          <rbkod>483927</rbkod>
+          <rtszam>2</rtszam>
+          <rbizonylatszam>BRW201924273</rbizonylatszam>
+          <ridegenmegrszam />
+          <cikkazon>5999544425675</cikkazon>
+          <sorozatszamok />
+        </tetel>
+        <tetel>
+          <tetelszam>3</tetelszam>
+          <cikkid>13701</cikkid>
+          <cikkszam>000000011344</cikkszam>
+          <cikknev>Q-PRINT TONER CF352A (130A) (CHIPES) YELLOW 1k</cikknev>
+          <menny>4,0000000</menny>
+          <me>db</me>
+          <egysegar>1800,0000000</egysegar>
+          <bregysegar>2286,00000000000</bregysegar>
+          <ertek>7200,000000000000</ertek>
+          <brertek>9144,000000</brertek>
+          <rbtkod>33</rbtkod>
+          <rbkod>483927</rbkod>
+          <rtszam>3</rtszam>
+          <rbizonylatszam>BRW201924273</rbizonylatszam>
+          <ridegenmegrszam />
+          <cikkazon>5999544425682</cikkazon>
+          <sorozatszamok />
+        </tetel>
+        <tetel>
+          <tetelszam>4</tetelszam>
+          <cikkid>13702</cikkid>
+          <cikkszam>000000011345</cikkszam>
+          <cikknev>Q-PRINT TONER CF353A (130A) (CHIPES) MAGENTA 1k</cikknev>
+          <menny>4,0000000</menny>
+          <me>db</me>
+          <egysegar>1800,0000000</egysegar>
+          <bregysegar>2286,00000000000</bregysegar>
+          <ertek>7200,000000000000</ertek>
+          <brertek>9144,000000</brertek>
+          <rbtkod>33</rbtkod>
+          <rbkod>483927</rbkod>
+          <rtszam>4</rtszam>
+          <rbizonylatszam>BRW201924273</rbizonylatszam>
+          <ridegenmegrszam />
+          <cikkazon>5999544425699</cikkazon>
+          <sorozatszamok />
+        </tetel>
+        <tetel>
+          <tetelszam>5</tetelszam>
+          <cikkid>6161</cikkid>
+          <cikkszam>000000005630</cikkszam>
+          <cikknev>Q-PRINT TONER CE285A (CHIPES) BLACK 1,7k</cikknev>
+          <menny>1,0000000</menny>
+          <me>db</me>
+          <egysegar>1620,0000000</egysegar>
+          <bregysegar>2057,40000000000</bregysegar>
+          <ertek>1620,000000000000</ertek>
+          <brertek>2057,400000</brertek>
+          <rbtkod>33</rbtkod>
+          <rbkod>483927</rbkod>
+          <rtszam>5</rtszam>
+          <rbizonylatszam>BRW201924273</rbizonylatszam>
+          <ridegenmegrszam />
+          <cikkazon>5999544423893</cikkazon>
+          <sorozatszamok />
+        </tetel>
+        <tetel>
+          <tetelszam>6</tetelszam>
+          <cikkid>10111</cikkid>
+          <cikkszam>000000008567</cikkszam>
+          <cikknev>Q-PRINT TONER CE310A (126) (CHIPES) BLACK 1,2k</cikknev>
+          <menny>1,0000000</menny>
+          <me>db</me>
+          <egysegar>1750,0000000</egysegar>
+          <bregysegar>2222,50000000000</bregysegar>
+          <ertek>1750,000000000000</ertek>
+          <brertek>2222,500000</brertek>
+          <rbtkod>33</rbtkod>
+          <rbkod>483927</rbkod>
+          <rtszam>6</rtszam>
+          <rbizonylatszam>BRW201924273</rbizonylatszam>
+          <ridegenmegrszam />
+          <cikkazon>5999544422896</cikkazon>
+          <sorozatszamok />
+        </tetel>
+        <tetel>
+          <tetelszam>7</tetelszam>
+          <cikkid>10112</cikkid>
+          <cikkszam>000000008568</cikkszam>
+          <cikknev>Q-PRINT TONER CE311A (126) (CHIPES) CYAN 1k</cikknev>
+          <menny>1,0000000</menny>
+          <me>db</me>
+          <egysegar>1800,0000000</egysegar>
+          <bregysegar>2286,00000000000</bregysegar>
+          <ertek>1800,000000000000</ertek>
+          <brertek>2286,000000</brertek>
+          <rbtkod>33</rbtkod>
+          <rbkod>483927</rbkod>
+          <rtszam>7</rtszam>
+          <rbizonylatszam>BRW201924273</rbizonylatszam>
+          <ridegenmegrszam />
+          <cikkazon>5999544422902</cikkazon>
+          <sorozatszamok />
+        </tetel>
+        <tetel>
+          <tetelszam>8</tetelszam>
+          <cikkid>10113</cikkid>
+          <cikkszam>000000008569</cikkszam>
+          <cikknev>Q-PRINT TONER CE312A (126) (CHIPES) YELLOW 1k</cikknev>
+          <menny>1,0000000</menny>
+          <me>db</me>
+          <egysegar>1800,0000000</egysegar>
+          <bregysegar>2286,00000000000</bregysegar>
+          <ertek>1800,000000000000</ertek>
+          <brertek>2286,000000</brertek>
+          <rbtkod>33</rbtkod>
+          <rbkod>483927</rbkod>
+          <rtszam>8</rtszam>
+          <rbizonylatszam>BRW201924273</rbizonylatszam>
+          <ridegenmegrszam />
+          <cikkazon>5999544422940</cikkazon>
+          <sorozatszamok />
+        </tetel>
+        <tetel>
+          <tetelszam>9</tetelszam>
+          <cikkid>10114</cikkid>
+          <cikkszam>000000008570</cikkszam>
+          <cikknev>Q-PRINT TONER CE313A (126) (CHIPES) MAGENTA 1k</cikknev>
+          <menny>1,0000000</menny>
+          <me>db</me>
+          <egysegar>1800,0000000</egysegar>
+          <bregysegar>2286,00000000000</bregysegar>
+          <ertek>1800,000000000000</ertek>
+          <brertek>2286,000000</brertek>
+          <rbtkod>33</rbtkod>
+          <rbkod>483927</rbkod>
+          <rtszam>9</rtszam>
+          <rbizonylatszam>BRW201924273</rbizonylatszam>
+          <ridegenmegrszam />
+          <cikkazon>5999544422957</cikkazon>
+          <sorozatszamok />
+        </tetel>
+        <tetel>
+          <tetelszam>10</tetelszam>
+          <cikkid>8543</cikkid>
+          <cikkszam>000000007385</cikkszam>
+          <cikknev>VEVŐ HÁZHOZSZÁLLÍTÁS SPRINTER (0-40 KG)</cikknev>
+          <menny>1,0000000</menny>
+          <me>db</me>
+          <egysegar>1470,0000000</egysegar>
+          <bregysegar>1866,90000000000</bregysegar>
+          <ertek>1470,000000000000</ertek>
+          <brertek>1866,900000</brertek>
+          <rbtkod>33</rbtkod>
+          <rbkod>483927</rbkod>
+          <rtszam>10</rtszam>
+          <rbizonylatszam>BRW201924273</rbizonylatszam>
+          <ridegenmegrszam />
+          <cikkazon />
+          <sorozatszamok />
+        </tetel>
+        <tetel>
+          <tetelszam>11</tetelszam>
+          <cikkid>16580</cikkid>
+          <cikkszam>345FC17</cikkszam>
+          <cikknev>UTÁNVÉT BESZEDÉSI DÍJ 100,000 FT-IG SPRINTER</cikknev>
+          <menny>1,0000000</menny>
+          <me>db</me>
+          <egysegar>590,0000000</egysegar>
+          <bregysegar>749,30000000000</bregysegar>
+          <ertek>590,000000000000</ertek>
+          <brertek>749,300000</brertek>
+          <rbtkod />
+          <rbkod />
+          <rtszam />
+          <rbizonylatszam />
+          <ridegenmegrszam />
+          <cikkazon />
+          <sorozatszamok />
+        </tetel>
+      </tetelek>
+    </szamla>
+  </szamlak>
+</valasz>

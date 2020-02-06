@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<szamla>
+	<fej>
+		<szamlaszam>2016/182061</szamlaszam>
+		<keltdatum>2016-03-09</keltdatum>
+		<teljdatum>2016-03-09</teljdatum>
+		<fizhatdatum>2016-03-17</fizhatdatum>
+		<netto_vegosszeg>593240.16</netto_vegosszeg>
+		<brutto_vegosszeg>753415.00</brutto_vegosszeg>
+	</fej>
+	<tetelek>
+		<tetel>
+			<cikkszam>92021</cikkszam>
+			<nev>AIO Frontier Matt &amp; High Gloss Black</nev>
+			<garido>12 hó</garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>2.00</mennyiseg>
+			<ar>4800.00</ar>
+			<osszar>9600.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>PNTMB021216020201</szeriaszam>
+				<szeriaszam>PNTMB021216020229</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>65315</cikkszam>
+			<nev>HP LaserJet Pro M125nw (CZ173A) lézernyomtató/másoló/szkenner</nev>
+			<garido>12 hó</garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>33900.00</ar>
+			<osszar>33900.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>CNB7H9P54B</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>47595</cikkszam>
+			<nev>Modecom Logic LS-21 2.1</nev>
+			<garido>24 hó</garido>
+			<vonalkod>5906190445032</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>2800.00</ar>
+			<osszar>2800.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>503150610002474</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>70768</cikkszam>
+			<nev>Philips 21,5&quot; 223V5LSB2 LED</nev>
+			<garido>24 hó</garido>
+			<vonalkod>8712581689568</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>23030.00</ar>
+			<osszar>23030.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>UK0A1546042050</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>60926</cikkszam>
+			<nev>Intel Core i5-4440 3100MHz 6MB LGA1150 Box</nev>
+			<garido>36 hó</garido>
+			<vonalkod>5032037054997</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>40500.00</ar>
+			<osszar>40500.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>2L534315A2812</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>73586</cikkszam>
+			<nev>Intel Pentium G3460 3500MHz 3MB LGA1150 Box</nev>
+			<garido>36 hó</garido>
+			<vonalkod>5032037066815</vonalkod>
+			<mennyiseg>2.00</mennyiseg>
+			<ar>15250.00</ar>
+			<osszar>30500.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>3E552005A2548</szeriaszam>
+				<szeriaszam>MC538107A5011</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>71870</cikkszam>
+			<nev>Logilink 2,5&quot; SATA USB 2.0 Aluminium Silver</nev>
+			<garido>24 hó</garido>
+			<vonalkod>4260113567494</vonalkod>
+			<mennyiseg>2.00</mennyiseg>
+			<ar>1390.00</ar>
+			<osszar>2780.00</osszar>
+			<szeriaszamok/>
+		</tetel>
+		<tetel>
+			<cikkszam>62173</cikkszam>
+			<nev>Akyga AK-ND-06 Adapter Acer 19V/3.42A 65W</nev>
+			<garido>24 hó</garido>
+			<vonalkod>5901720130259</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>1880.00</ar>
+			<osszar>1880.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>AK0610150362</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>88394</cikkszam>
+			<nev>Dell Inspiron 5558-66 Matt Black</nev>
+			<garido>36 hó</garido>
+			<vonalkod>5999056107892</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>109050.16</ar>
+			<osszar>109050.16</osszar>
+			<szeriaszamok>
+				<szeriaszam>DJQFD72</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>67060</cikkszam>
+			<nev>APC Back UPS BX 500</nev>
+			<garido>24 hó</garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>15700.00</ar>
+			<osszar>15700.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>S5B1543T43130</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>31377</cikkszam>
+			<nev>Chieftec iARENA GPA-400S8 400W OEM</nev>
+			<garido>36 hó</garido>
+			<vonalkod>4710713238930</vonalkod>
+			<mennyiseg>2.00</mennyiseg>
+			<ar>7500.00</ar>
+			<osszar>15000.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>D151100011683</szeriaszam>
+				<szeriaszam>D151100011809</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>64869</cikkszam>
+			<nev>Ewent EW3900 500W</nev>
+			<garido>24 hó</garido>
+			<vonalkod>8032958184640</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>4150.00</ar>
+			<osszar>4150.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>0015040429</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>86045</cikkszam>
+			<nev>GIGABYTE GTX750Ti 2GB DDR5 GV-N75TD5-2GI</nev>
+			<garido>36 hó</garido>
+			<vonalkod>4719331340230</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>27800.00</ar>
+			<osszar>27800.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>SN155041016385</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>79090</cikkszam>
+			<nev>ASROCK H81M-VG4 R2.0</nev>
+			<garido>24 hó</garido>
+			<vonalkod>4717677323993</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>8990.00</ar>
+			<osszar>8990.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>5AM0XE369734</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>85856</cikkszam>
+			<nev>ASUS H81M-R</nev>
+			<garido>36 hó</garido>
+			<vonalkod>4716659828778</vonalkod>
+			<mennyiseg>2.00</mennyiseg>
+			<ar>10620.00</ar>
+			<osszar>21240.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>FCM0CS005636</szeriaszam>
+				<szeriaszam>FCM0CS005637</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>8322</cikkszam>
+			<nev>Genius SlimStar C110 PS/2 billentyűzet+egér Black</nev>
+			<garido>24 hó</garido>
+			<vonalkod>4710268225577</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>2290.00</ar>
+			<osszar>2290.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>YB53C1000619</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>87459</cikkszam>
+			<nev>Microsoft Office 2016 Home &amp; Business 1 USER ML HUN</nev>
+			<garido></garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>48900.00</ar>
+			<osszar>48900.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>99994836968773</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>78783</cikkszam>
+			<nev>Aerocool Dark Force Black 80mm</nev>
+			<garido>24 hó</garido>
+			<vonalkod>4713105951318</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>670.00</ar>
+			<osszar>670.00</osszar>
+			<szeriaszamok/>
+		</tetel>
+		<tetel>
+			<cikkszam>52498</cikkszam>
+			<nev>Scythe Mini Kaze SY501012M</nev>
+			<garido>24 hó</garido>
+			<vonalkod>4571225043982</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>1380.00</ar>
+			<osszar>1380.00</osszar>
+			<szeriaszamok/>
+		</tetel>
+		<tetel>
+			<cikkszam>86803</cikkszam>
+			<nev>LG GH24NSD1 DVD-Writer Black OEM</nev>
+			<garido>24 hó</garido>
+			<vonalkod>8806087491067</vonalkod>
+			<mennyiseg>2.00</mennyiseg>
+			<ar>2650.00</ar>
+			<osszar>5300.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>512H8BJ051149</szeriaszam>
+				<szeriaszam>512H8RK051150</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>5506</cikkszam>
+			<nev>Kingmax 2GB DDR3 1333Mhz</nev>
+			<garido>36 hó</garido>
+			<vonalkod>4712176731546</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>2870.00</ar>
+			<osszar>2870.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>ZG2002506078</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>33100</cikkszam>
+			<nev>Kingmax 4GB DDR3 1600MHz</nev>
+			<garido>36 hó</garido>
+			<vonalkod>4712176732291</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>4570.00</ar>
+			<osszar>4570.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>ZG1008501308</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>43962</cikkszam>
+			<nev>Kingston 4GB DDR3 1600MHz Single Rank</nev>
+			<garido>Élettartam</garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>4290.00</ar>
+			<osszar>4290.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>ZS141598</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>46029</cikkszam>
+			<nev>Toshiba 1TB 7200rpm SATA-600 32MB DT01ACA100</nev>
+			<garido>24 hó</garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>10030.00</ar>
+			<osszar>10030.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>Z5OB2SPFSWK7</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>44542</cikkszam>
+			<nev>Western Digital 1TB 7200rpm SATA-600 64MB Blue WD10EZEX</nev>
+			<garido>24 hó</garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>2.00</mennyiseg>
+			<ar>10900.00</ar>
+			<osszar>21800.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>WCC3F1VR6P5A</szeriaszam>
+				<szeriaszam>WCC3F5YA8AA3</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>44927</cikkszam>
+			<nev>Western Digital 2TB IntelliPower SATA-600 64MB Red WD20EFRX</nev>
+			<garido>36 hó</garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>2.00</mennyiseg>
+			<ar>20540.00</ar>
+			<osszar>41080.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>WCC4M7DCY53F</szeriaszam>
+				<szeriaszam>WCC4M7UZCC2L</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>47564</cikkszam>
+			<nev>Seagate 500GB 5400rpm SATA-300 2,5&quot; 16MB 7mm ST500LT012</nev>
+			<garido>24 hó</garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>2.00</mennyiseg>
+			<ar>9030.00</ar>
+			<osszar>18060.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>S3PP4JEB</szeriaszam>
+				<szeriaszam>S3PPL567</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>59412</cikkszam>
+			<nev>Toshiba 1TB 5400rpm SATA-600 2,5&quot; 8MB 9,5mm MQ01ABD100</nev>
+			<garido>24 hó</garido>
+			<vonalkod>4026203989528</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>11700.00</ar>
+			<osszar>11700.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>16CCCHCFT13B</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>71296</cikkszam>
+			<nev>Kingston 120GB 2,5&quot; SATA3 HyperX Fury SHFS37A/120G</nev>
+			<garido>36 hó</garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>2.00</mennyiseg>
+			<ar>10850.00</ar>
+			<osszar>21700.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>50026B725B07C0FE</szeriaszam>
+				<szeriaszam>50026B725B07C6C2</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>47634</cikkszam>
+			<nev>Kingston 120GB 2,5&quot; SATA3 V300 SV300S37A/120G</nev>
+			<garido>36 hó</garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>3.00</mennyiseg>
+			<ar>9950.00</ar>
+			<osszar>29850.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>50026B72610234D1</szeriaszam>
+				<szeriaszam>50026B726102360B</szeriaszam>
+				<szeriaszam>50026B776200CA00</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>88273</cikkszam>
+			<nev>Kingston 128GB microSDXC CL10 UHS-I adapter nélkül</nev>
+			<garido>Élettartam</garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>13090.00</ar>
+			<osszar>13090.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>CM555284</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>19146</cikkszam>
+			<nev>Kingston 16GB microSDHC Class 4 + adapterrel</nev>
+			<garido>60 hó</garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>2.00</mennyiseg>
+			<ar>2190.00</ar>
+			<osszar>4380.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>CM554460</szeriaszam>
+				<szeriaszam>CM578571</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>24330</cikkszam>
+			<nev>Kingston 16GB microSDHC Class 4 adapter nélkül</nev>
+			<garido>Élettartam</garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>2.00</mennyiseg>
+			<ar>2180.00</ar>
+			<osszar>4360.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>CM569337</szeriaszam>
+				<szeriaszam>CM569341</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+	</tetelek>
+</szamla>

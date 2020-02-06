@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<szamla>
+	<fej>
+		<szamlaszam>2020/358510</szamlaszam>
+		<keltdatum>2020-01-23</keltdatum>
+		<teljdatum>2020-01-23</teljdatum>
+		<fizhatdatum>2020-01-31</fizhatdatum>
+		<netto_vegosszeg>181270.08</netto_vegosszeg>
+		<brutto_vegosszeg>230213.00</brutto_vegosszeg>
+	</fej>
+	<tetelek>
+		<tetel>
+			<cikkszam>110398</cikkszam>
+			<nev>Samsonite American Tourister Work 15,6&quot; Notebook Bag Black</nev>
+			<garido>24 hó</garido>
+			<vonalkod>5414847772979</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>6990.00</ar>
+			<osszar>6990.00</osszar>
+			<szeriaszamok/>
+		</tetel>
+		<tetel>
+			<cikkszam>98805</cikkszam>
+			<nev>Logilink ID0096 egérpad Black</nev>
+			<garido>24 hó</garido>
+			<vonalkod>4052792002683</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>180.00</ar>
+			<osszar>180.00</osszar>
+			<szeriaszamok/>
+		</tetel>
+		<tetel>
+			<cikkszam>143835</cikkszam>
+			<nev>Acer Aspire A315-54-32CF Black</nev>
+			<garido>24 hó</garido>
+			<vonalkod>4710180712834</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>109890.08</ar>
+			<osszar>109890.08</osszar>
+			<szeriaszamok>
+				<szeriaszam>NXHEFEU03V94606ABC3400</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>126569</cikkszam>
+			<nev>Canyon CNE-CMSW05B wireless mouse Black</nev>
+			<garido>24 hó</garido>
+			<vonalkod>5291485003692</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>910.00</ar>
+			<osszar>910.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>IS0694800750</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>25737</cikkszam>
+			<nev>Logitech M235 Wireless Mouse Black/Grey</nev>
+			<garido>36 hó</garido>
+			<vonalkod>5099206027176</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>3990.00</ar>
+			<osszar>3990.00</osszar>
+			<szeriaszamok/>
+		</tetel>
+		<tetel>
+			<cikkszam>55579</cikkszam>
+			<nev>Logitech MK270 Wireless Billentyűzet + Egér</nev>
+			<garido>36 hó</garido>
+			<vonalkod>5099206039322</vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>9290.00</ar>
+			<osszar>9290.00</osszar>
+			<szeriaszamok/>
+		</tetel>
+		<tetel>
+			<cikkszam>85505</cikkszam>
+			<nev>Microsoft Windows 10 Home 64bit HUN OEM</nev>
+			<garido></garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>26010.00</ar>
+			<osszar>26010.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>03260085538452</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>80572</cikkszam>
+			<nev>A-Data 32GB Flash Drive UV150 Black</nev>
+			<garido>Élettartam</garido>
+			<vonalkod>4713435797075</vonalkod>
+			<mennyiseg>3.00</mennyiseg>
+			<ar>2840.00</ar>
+			<osszar>8520.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>CM852096</szeriaszam>
+				<szeriaszam>CM852097</szeriaszam>
+				<szeriaszam>CM852099</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>106679</cikkszam>
+			<nev>Sandisk 128GB Ultra Dual Drive M3.0 Black</nev>
+			<garido>60 hó</garido>
+			<vonalkod></vonalkod>
+			<mennyiseg>1.00</mennyiseg>
+			<ar>7390.00</ar>
+			<osszar>7390.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>CM861302</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+		<tetel>
+			<cikkszam>93479</cikkszam>
+			<nev>Silicon Power 64GB Blaze B02 USB3.1 Black</nev>
+			<garido>Élettartam</garido>
+			<vonalkod>4712702646474</vonalkod>
+			<mennyiseg>2.00</mennyiseg>
+			<ar>4050.00</ar>
+			<osszar>8100.00</osszar>
+			<szeriaszamok>
+				<szeriaszam>CM852155</szeriaszam>
+				<szeriaszam>CM852156</szeriaszam>
+			</szeriaszamok>
+		</tetel>
+	</tetelek>
+</szamla>
